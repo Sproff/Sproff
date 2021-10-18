@@ -9,8 +9,7 @@ src="https://img.shields.io/twitter/follow/dev_sproff?label=Follow%20me&style=so
 Started counting on <b>18/10/2021</b>
 </p>
 
-<img align="center"> 
-![Profile views](https://gpvc.arturio.dev/Sproff)
+![Profile views]<img align="center" src="https://gpvc.arturio.dev/Sproff"> 
 </img>
 
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Sproff&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical" alt="Sproff"/> </p>
