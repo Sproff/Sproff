@@ -7,6 +7,7 @@ src="https://img.shields.io/twitter/follow/dev_sproff?label=Follow%20me&style=so
 
 <p align="center"> 
 Started counting on <b>18/10/2021</b>
+<br />
 <img align="center" src="https://gpvc.arturio.dev/Sproff"></img>
 </p>
 
