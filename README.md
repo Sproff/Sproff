@@ -5,10 +5,4 @@ src="https://img.shields.io/github/last-commit/sproff/Sproff" alt="Sproff" />
 <img
 src="https://img.shields.io/twitter/follow/dev_sproff?label=Follow%20me&style=social" alt="dev_sproff" /></p>
 
-<p align="center"> 
-Started counting on <b>18/10/2021</b>
-<br />
-<img align="center" src="https://gpvc.arturio.dev/Sproff"></img>
-</p>
-
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Sproff&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical" alt="Sproff"/> </p>
